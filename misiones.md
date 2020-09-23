@@ -1,2 +1,3 @@
 ## Misiones
-atrapar al dr domm
+* atrapar al dr domm
+* capturar a red skul
