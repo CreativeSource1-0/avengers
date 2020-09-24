@@ -1,4 +1,5 @@
 # Miembros
+* Nick Fury
 * Capitán America loco
 * Black panther
 * Black Widow
