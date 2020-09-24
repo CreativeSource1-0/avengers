@@ -3,4 +3,3 @@
 2. Red Scul
 1. un villano
 2. otro villano
-3. *Capitán America loco
